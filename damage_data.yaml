@@ -1,0 +1,12 @@
+path: dataset
+
+train: damage_train/images
+val: damage_val/images
+
+nc: 4
+
+names:
+  0: longitudinal_crack
+  1: transverse_crack
+  2: alligator_crack
+  3: pothole
